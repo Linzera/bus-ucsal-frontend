@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/bus-ucsal-frontend/static/js/runtime~main.1d9fa2a5.js"
   },
   {
-    "revision": "794d4b5453b885b6b3b1",
-    "url": "/bus-ucsal-frontend/static/js/main.794d4b54.chunk.js"
+    "revision": "40edf7677353061ee440",
+    "url": "/bus-ucsal-frontend/static/js/main.40edf767.chunk.js"
   },
   {
     "revision": "f6128f0e30e1996a5c40",
     "url": "/bus-ucsal-frontend/static/js/1.f6128f0e.chunk.js"
   },
   {
-    "revision": "794d4b5453b885b6b3b1",
+    "revision": "40edf7677353061ee440",
     "url": "/bus-ucsal-frontend/static/css/main.d9b14d7d.chunk.css"
   },
   {
-    "revision": "a5d9051c98c5a8dd95731a4345cb393b",
+    "revision": "e94d1a6c176682b74856da39caaf48e9",
     "url": "/bus-ucsal-frontend/index.html"
   }
 ];
