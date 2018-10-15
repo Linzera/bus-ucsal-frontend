@@ -1,13 +1,13 @@
 {
-  "main.css": "/bus-ucsal-frontend/static/css/main.e982085f.chunk.css",
-  "main.js": "/bus-ucsal-frontend/static/js/main.cf8bd952.chunk.js",
-  "main.js.map": "/bus-ucsal-frontend/static/js/main.cf8bd952.chunk.js.map",
-  "static/js/1.9b5e76af.chunk.js": "/bus-ucsal-frontend/static/js/1.9b5e76af.chunk.js",
-  "static/js/1.9b5e76af.chunk.js.map": "/bus-ucsal-frontend/static/js/1.9b5e76af.chunk.js.map",
+  "main.css": "/bus-ucsal-frontend/static/css/main.4259529d.chunk.css",
+  "main.js": "/bus-ucsal-frontend/static/js/main.1871ece4.chunk.js",
+  "main.js.map": "/bus-ucsal-frontend/static/js/main.1871ece4.chunk.js.map",
+  "static/js/1.df7b4013.chunk.js": "/bus-ucsal-frontend/static/js/1.df7b4013.chunk.js",
+  "static/js/1.df7b4013.chunk.js.map": "/bus-ucsal-frontend/static/js/1.df7b4013.chunk.js.map",
   "runtime~main.js": "/bus-ucsal-frontend/static/js/runtime~main.1d9fa2a5.js",
   "runtime~main.js.map": "/bus-ucsal-frontend/static/js/runtime~main.1d9fa2a5.js.map",
-  "static/css/main.e982085f.chunk.css.map": "/bus-ucsal-frontend/static/css/main.e982085f.chunk.css.map",
+  "static/css/main.4259529d.chunk.css.map": "/bus-ucsal-frontend/static/css/main.4259529d.chunk.css.map",
   "index.html": "/bus-ucsal-frontend/index.html",
-  "precache-manifest.3011fe6be1cb44e883726d7e450d23e9.js": "/bus-ucsal-frontend/precache-manifest.3011fe6be1cb44e883726d7e450d23e9.js",
+  "precache-manifest.2b80054dc6f58ea128fe54a8fc006d83.js": "/bus-ucsal-frontend/precache-manifest.2b80054dc6f58ea128fe54a8fc006d83.js",
   "service-worker.js": "/bus-ucsal-frontend/service-worker.js"
 }
