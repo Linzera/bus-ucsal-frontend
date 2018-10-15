@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/bus-ucsal-frontend/precache-manifest.9aa26a19b4ac49c3c7d7460218785ada.js"
+  "/bus-ucsal-frontend/precache-manifest.75c97f9b86229d11ecaa9b2f2c321ad3.js"
 );
 
 workbox.clientsClaim();
